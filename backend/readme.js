@@ -24,6 +24,8 @@ depois do arquivo criado , colocar os parametros e rodar npx knex migrate:latest
 sudo npm install cors
 determina quem pode acessar o codigo
 
+sudo npm install react-icons
+instala todos os icons do react
 
 
 */
