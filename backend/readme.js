@@ -27,6 +27,12 @@ determina quem pode acessar o codigo
 sudo npm install react-icons
 instala todos os icons do react
 
+RectNative
+sudo npm install -g expo-cli
+
+criar projeto
+sudo expo init mobile
+
 
 */
 
@@ -51,3 +57,11 @@ Delete => Deleta uma informação no back-end
  * Route Params: Parâmetros utilizados para identificar recursos
  * Request Body: Corpo da requisição, utiizado para criar ou alterar recursos
  */
+
+
+ expo routes
+ sudo npm install @react-navigation/native
+
+ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+expo install expo-mail-composer
